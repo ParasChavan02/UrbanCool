@@ -400,16 +400,4 @@ UrbanCool demonstrates how artificial intelligence and data-driven decision maki
 
 ### Cooling Smarter. Living Better. ❄️
 
-```
 
-### One thing I would **not** do
-
-Don't put **“35% energy savings”** in the opening README tagline as if the Streamlit application itself achieved that in a live city. That's an easy target for someone reviewing your GitHub.
-
-The distinction should remain crystal clear:
-
-**Research:** experimental/simulation results → 35% reported savings.  
-**Prototype:** interactive simulation demonstrating the proposed architecture.
-
-That makes the repository much more defensible academically and professionally.
-```
