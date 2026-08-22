@@ -278,8 +278,8 @@ These results are from the research evaluation and simulation described in the p
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/ParasChavan02/UrbanCool
+cd Urbancool
 ```
 
 ## 2. Create a Virtual Environment
