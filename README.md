@@ -14,6 +14,18 @@ The project combines multi-source urban data, predictive modeling, and adaptive 
 > 🔗**URL:** https://ieeexplore.ieee.org/document/11507747
 ---
 
+## 🏆 Copyright Registration
+
+UrbanCool – AI for Environmental Management: AI-Driven Responsive Cooling System is officially registered with the **Copyright Office, Government of India**.
+
+- **Registration Number:** LD-20260196617
+- **Application Number:** LD-8420/2026-CO
+- **Date of Filing:** 24 February 2026
+
+**Copyright Certificate:** [View Certificate](Copyright.pdf)
+
+© 2026 UrbanCool Project Team. All rights reserved.
+
 ## 📌 About the Research
 
 Rapid urbanization contributes to rising temperatures, increased energy consumption, and heat-related risks. Traditional urban cooling systems commonly rely on fixed schedules or limited sensor inputs, making them inefficient when environmental conditions and crowd density change.
